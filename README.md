@@ -1,4 +1,4 @@
-# FUNDAMENTOSS JS - SERIES DE FUNCTIONS
+# FUNDAMENTOS JS - EM SERIES DE FUNCTIONS
 Segue alguns exemplos de funcões utilizando o JavaScript, deixando em quatro séries para arquivamento e registro, usando [referências](https://www.cod3r.com.br/courses/take/javascript-funcional-fundamentos/lessons/16323810-explicacoes-iniciais)
 
 ## PRIMEIROS PASSOS QUE FOI PROCESSADO ANTES DE ELABORAR CRIAR AS CLASSES FUNCTIONS
