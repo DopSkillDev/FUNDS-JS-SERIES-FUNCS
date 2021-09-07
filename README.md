@@ -10,7 +10,7 @@ Segue alguns exemplos de funcões utilizando o JavaScript, deixando em quatro s�
 2. Extenções que foram utilizados para essa criação.
 
   - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
-  - 
+
     - Segue orientações da extenção
      
      ![Screenshot 2021-09-05 at 21-14-47 Cod3r](https://user-images.githubusercontent.com/52793184/132145348-2b187bd1-823e-4964-a7cc-02e88b5f776c.png)
