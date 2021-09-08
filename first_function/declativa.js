@@ -1,7 +1,6 @@
 // OBS: o nome inserido na função é só para dar uma melhor visão. 
 // No entanto não é uma boa prática o nome, melhor ideia de nome que seja no singular.
 
-
 // Função de forma simples
 function MeDeclara() {
   console.log('Me Declarando')
