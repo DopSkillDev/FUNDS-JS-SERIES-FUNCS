@@ -23,6 +23,5 @@ Segue alguns exemplos de funcões utilizando o JavaScript, deixando em quatro s�
     - Declaração com Parãmetro e coom Retorno
   - Segunda Série - Função Expressiva
     - Expressão Simples
-    - 
   - Terceira Série - Função
   - Quarta Série - Função
