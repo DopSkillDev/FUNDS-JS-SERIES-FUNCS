@@ -1,1 +1,1 @@
-// Expressão de forma simples
+console.log("Expressão de forma simples")
